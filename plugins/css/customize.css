@@ -1,0 +1,42 @@
+.form {
+    border-radius: 3px;
+    padding: 10px 15px;
+    background-color: rgba(0,0,0,0.2);
+}
+
+.label {
+    width: 100%;
+    display: block;
+}
+
+.textarea {
+    width: 100%;
+    margin-bottom: 15px;
+    padding: 7px 10px;
+    border-radius: 2px;
+    color: #fff;
+    background-color: #554c57;
+    border: none;
+}
+
+.button {
+    width: 100%;
+    margin: 15px 0;
+    background-color: #785580;
+    border: none;
+    color: #fff;
+    border-radius: 2px;
+    padding: 7px 10px;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+.input {
+    width: 100%;
+    margin-bottom: 15px;
+    padding: 7px 10px;
+    border-radius: 2px;
+    color: #fff;
+    background-color: #554c57;
+    border: none;
+}

@@ -25,7 +25,7 @@ export default {
   forceClass: true,
 
   // Height for the editor container
-  height: '900px',
+  height: '100%',
 
   // Width for the editor container
   width: '100%',
